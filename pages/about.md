@@ -14,14 +14,4 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The arts have always attracted people with unique visions, sometimes those visions refuse to conform to what is popularly considered aesthetically acceptable and desirable.  In visual art, the concept of the outsider artist was developed to help contextualize those who lack formal training and who are not in one manner or another creatively oriented towards commercial endeavors. This concept was later applied to music to describe musicians whose work is more about communicating a unique personal vision than adhering to mainstream tendencies and strictures. The Midwestern Centre for Outsider Music is pleased to present The Marvin Praxis Collection: an assemblage of items related to nine distinctive outsider musicians. In viewing these items we hope to inspire you with a desire to learn more about this neglected facet of music history and lesser studied histories of expression in general.
