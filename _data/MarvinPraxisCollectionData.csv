@@ -1,11 +1,11 @@
-objectid,filename,format,description,date,subject
-collection001,CherrySistersNYT1.jpg,image/jpg,New York Times review of a Cherry Sisters show Part 1,1890s,Outsider Music
-collection002,CherrySistersNYT2.jpg,image/jpg,New York Times review of a Cherry Sisters show Part 2,1890s,Outsider Music
-collection003,graettingeredscore.jpg,image/jpg,Visual score of City of Glass by Bob Graettinger Part 1,1950s,20th Century Composition
-collection004,graettingerorangescore.jpg,image/jpg,Visual score of City of Glass by Bob Graettinger Part 2,1950s,20th Century Composition
-collection005,graettingercirclescore.jpg,image/jpg,Visual score of City of Glass by Bob Graettinger Part 3,1950s,20th Century Composition
-collection006,songpoem1.jpg,image/jpg,Song Poem advertisement for Rodd Keith Studio 1,1970s,Song Poems
-collection007,songpoem2.jpg,image/jpg,Song Poem advertisement for Rodd Keith Studio 2,1970s,Song Poems
-collection008,theshaggs.jpg,image/jpg,Record art for The Shaggs Philosophy of the World album,1960s,Outsider Music
-collection009,readyforthehouse.jpg,image/jpg,Front cover of album Ready For The House by Jandek,1980s,Outsider Music
-collection010,readyforthehouseback.jpg,image/jpg,Back cover of album Ready For The House by Jandek,1980s,Outsider Music
+objectid,filename,format,description,date,subject,location,title
+collection001,CherrySistersNYT1.jpg,image/jpg,New York Times review of a Cherry Sisters show Part 1,1890s,Outsider Music,Iowa,New York Times Review Part 1
+collection002,CherrySistersNYT2.jpg,image/jpg,New York Times review of a Cherry Sisters show Part 2,1890s,Outsider Music,Iowa,New York Times Review Part 2
+collection003,graettingeredscore.jpg,image/jpg,Visual score of City of Glass by Bob Graettinger Part 1,1950s,20th Century Composition,California,City of Glass Part 1
+collection004,graettingerorangescore.jpg,image/jpg,Visual score of City of Glass by Bob Graettinger Part 2,1950s,20th Century Composition,California,City of Glass Part 2
+collection005,graettingercirclescore.jpg,image/jpg,Visual score of City of Glass by Bob Graettinger Part 3,1950s,20th Century Composition,California,City of Glass Part 3
+collection006,songpoem1.jpg,image/jpg,Song Poem advertisement for Rodd Keith Studio 1,1970s,Song Poems,California,Song Poem studio advertisement 1
+collection007,songpoem2.jpg,image/jpg,Song Poem advertisement for Rodd Keith Studio 2,1970s,Song Poems,California,Song Poem studio advertisement 2
+collection008,theshaggs.jpg,image/jpg,Record art for The Shaggs Philosophy of the World album,1960s,Outsider Music,Massachusetts,Philosophy of the World
+collection009,readyforthehouse.jpg,image/jpg,Front cover of album Ready For The House by Jandek,1980s,Outsider Music,Texas,Ready For The House Front
+collection010,readyforthehouseback.jpg,image/jpg,Back cover of album Ready For The House by Jandek,1980s,Outsider Music,Texas,Ready For The House Back
